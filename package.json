@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "lovelystay",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,10 @@
     "next": "13.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-component": "^2.8.0",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
   }
 }
