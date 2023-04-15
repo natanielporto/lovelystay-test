@@ -12,7 +12,3 @@ export const Container = styled.input`
     border: 2px solid ${({ theme }) => theme.colors.primary};
   }
 `;
-
-// textarea:focus, input:focus{
-//   outline: none;
-// }
