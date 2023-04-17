@@ -3,7 +3,7 @@
 Hi, thanks for your time reviewing this test. Short and sweet:
 
 - Due to time constraints, I could not do 2 things: tests and pagination. Not that I don't know - I know tests, and I'm rusted at it - , but I have to deliver freelancers duties. The pagination is a query thing, organizing the state. It is missing but it's not the bulk of the work IMHO.
-- I used Styled-Components, trying to use as best as I could the Atomic Design methodology.
+- I used Styled-Components, trying to use as best as I could the Atomic Design methodology. As a bonus, I added a theme switcher. The colors arent that pretty, but, hey, it works.
 - Even though I did not delivered those 2 items, I used NextJs to further improve the project. And to re-learn the framework as well as I could. That was a decent amount of headache, since I only worked with past versions. But the project is better overall, I believe.
 - Not asked for, but I added TypeScript as well. There are some "any" here and there, but I believe I've made my point showing that I can use it.
 
